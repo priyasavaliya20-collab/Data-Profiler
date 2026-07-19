@@ -149,8 +149,27 @@ flowchart TD
     class G,H output;
 ```
 
+## Part :- A Theoretical Foundation
 
 ---
+
+<img width="612" height="408" alt="Screenshot 2026-07-19 192837" src="https://github.com/user-attachments/assets/c6eac3f3-131a-4fdd-af79-95a0e78a79a1" />
+
+---
+
+<img width="630" height="376" alt="Screenshot 2026-07-19 192857" src="https://github.com/user-attachments/assets/2eb614aa-5f1b-4816-8e95-54a4e81999f8" />
+
+---
+
+
+<img width="617" height="326" alt="Screenshot 2026-07-19 192907" src="https://github.com/user-attachments/assets/73734859-c847-4f3b-97c6-7ec6babbd428" />
+
+---
+
+<img width="623" height="272" alt="Screenshot 2026-07-19 192934" src="https://github.com/user-attachments/assets/c1af23bd-6163-4c49-b690-ef82bdca48c1" />
+
+---
+
 ## 📂 Dataset Overview
 
 ```python
