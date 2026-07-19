@@ -1,6 +1,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000814,20:001D3D,40:003566,60:00509D,80:3A86FF,100:ADE8F4&text=Data%20Profiler&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Acquisition%20•%20Cleaning%20•%20EDA%20•%20Automated%20Profiling&descAlignY=66&descSize=18"/>
 
+This project presents a **Data Acquisition + Cleaning + EDA + Automated Profiling** analysis on a real-world customer dataset containing **100 unique records**. The objective is to pull the same customer data from three different source formats (CSV, JSON, SQL), merge them into one dataset, clean and deduplicate it, and identify which features — if any — drive the `Purchased` outcome.
+
+The project combines multi-source data engineering with practical implementation in Python (Jupyter Notebook), covering the complete analytical workflow — from format-specific loading pitfalls and deduplication to statistical EDA and automated profiling.
+
+
+
 ---
 
 ## 🎯 Objective
@@ -23,12 +29,12 @@ Merge customer data from CSV, JSON, SQL, and a live API into a single clean data
 
 ---
 
-# 🎬 Project Demo
+## 🎬 Project Demo
 
-[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/15rVC3j1UWCeM1BUH4yeZeG4bfqLHGLoZ/view?usp=sharing)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white)]
+(https://drive.google.com/file/d/15rVC3j1UWCeM1BUH4yeZeG4bfqLHGLoZ/view?usp=sharing)
 
 📹 Click the badge above to watch the complete project demonstration.
----
 
 ## 🗂️ Project Files
 
@@ -43,6 +49,7 @@ Merge customer data from CSV, JSON, SQL, and a live API into a single clean data
 
 
 ---
+
 
 ## 🏗️ Project Architecture
 
@@ -90,38 +97,6 @@ Raw Data (CSV + JSON + SQL + API)
 - **`customers.json`** — same 100 customer records in structured key-value format
 - **`customers.db`** — SQLite database, built in-notebook from the CSV data, queried via `SELECT * FROM Customers`
 - **DummyJSON API** (`https://dummyjson.com/users`) — used to demonstrate live, nested API ingestion
-
-
-
-## 📁 Repository Structure
-
-```
-Data_Profiler/
-│
-├── 📄 README.md                       ← You are here
-├── 📓 Data_Profiler.ipynb             ← Main analysis notebook (Parts B–E)
-│
-├── 📂 data/
-│   ├── customers.csv                   ← Primary dataset (100 rows × 7 cols, tab-separated)
-│   ├── customers.json                  ← Same 100 records in JSON format
-│   └── customers.db                    ← SQLite database (created in-notebook)
-│
-├── 📂 reports/
-│   └── data_profiling_report.html      ← Auto-generated profiling report
-│
-└── 📄 requirements.txt
-```
-
-`requirements.txt`
-```
-pandas
-numpy
-matplotlib
-seaborn
-requests
-ydata-profiling
-jupyter
-```
 
 
 ## 🗺️ Project Roadmap
