@@ -12,7 +12,7 @@ The project combines multi-source data engineering with practical implementation
 ## 🎯 Objective
 
 
-<img width="1536" height="1024" alt="ChatGPT Image Jul 19, 2026, 08_18_03 PM" src="https://github.com/user-attachments/assets/b287c654-5587-48a2-9bea-e19f64863233" />
+<img width="1536" height="1000" alt="ChatGPT Image Jul 19, 2026, 08_18_03 PM" src="https://github.com/user-attachments/assets/b287c654-5587-48a2-9bea-e19f64863233" />
 
 
 ---
