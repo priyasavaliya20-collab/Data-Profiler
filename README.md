@@ -151,7 +151,7 @@ flowchart TD
 
 ---
 
-# 📕 Part :- A Theoretical Foundation
+# 📕 Part :- A Fundamentals
 
 ---
 
