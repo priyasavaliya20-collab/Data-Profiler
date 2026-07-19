@@ -1,9 +1,7 @@
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:145A32,100:8B0000&height=180&section=header&text=Data%20Profiler&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Multi-Source%20Data%20Acquisition,%20Cleaning%20%26%20Automated%20Profiling&descAlignY=58&descSize=18" width="100%"/>
 
-<div align="center">
+<div>
      
 ![Python](https://img.shields.io/badge/Python-145A32?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-8B0000?style=for-the-badge&logo=pandas&logoColor=white)
