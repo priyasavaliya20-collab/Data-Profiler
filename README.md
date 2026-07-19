@@ -116,7 +116,76 @@ jupyter
 
 ## 🗺️ Project Roadmap
 
+# 📊 Customer Data Profiling Project
 
+Is project mein CSV, JSON, SQL Database, aur API — char alag-alag sources se customer data collect karke, use clean, analyze, aur profile kiya gaya hai.
+
+## 🗺️ Project Roadmap
+
+```mermaid
+flowchart TD
+    A1[(CSV Data)] --> B{{Data Integration}}
+    A2[(JSON Data)] --> B
+    A3[(SQL Database)] --> B
+    A4[(API Data)] --> B
+
+    B --> C([Data Understanding])
+    C --> D[[Data Cleaning]]
+
+    D --> D1(Handle Missing Values)
+    D --> D2(Remove Duplicates)
+    D --> D3(Correct Data Types)
+    D --> D4(Drop Irrelevant Columns)
+
+    D1 & D2 & D3 & D4 --> E{{Exploratory Data Analysis}}
+
+    E --> F1[/Univariate Analysis/]
+    F1 --> F1a(Age Distribution)
+    F1 --> F1b(Income Distribution)
+    F1 --> F1c(Purchased Distribution)
+
+    E --> F2[/Bivariate Analysis/]
+    F2 --> F2a(Gender vs Purchased)
+    F2 --> F2b(Income vs Purchased)
+
+    E --> F3[/Multivariate Analysis/]
+    F3 --> F3a(Correlation Heatmap)
+    F3 --> F3b(Pair Plot)
+
+    F1a & F1b & F1c & F2a & F2b & F3a & F3b --> G[(Automated Profiling Report)]
+    G --> H([Insights & Conclusion])
+
+    classDef source fill:#D9C3A0,stroke:#6E1E33,stroke-width:2px,color:#3A2A28;
+    classDef process fill:#F7EFE4,stroke:#6E1E33,stroke-width:2px,color:#3A2A28;
+    classDef clean fill:#D98C9B,stroke:#6E1E33,stroke-width:2px,color:#3A2A28;
+    classDef analysis fill:#6E1E33,stroke:#3A2A28,stroke-width:2px,color:#F7EFE4;
+    classDef sub fill:#F7EFE4,stroke:#D9C3A0,stroke-width:1.5px,color:#3A2A28;
+    classDef output fill:#6E1E33,stroke:#3A2A28,stroke-width:2px,color:#F7EFE4;
+
+    class A1,A2,A3,A4 source;
+    class B,C process;
+    class D clean;
+    class D1,D2,D3,D4 sub;
+    class E,F1,F2,F3 analysis;
+    class F1a,F1b,F1c,F2a,F2b,F3a,F3b sub;
+    class G,H output;
+```
+
+## 📁 Stages Explained
+
+| # | Stage | Details |
+|---|-------|---------|
+| 1 | **Data Integration** | CSV, JSON, SQL, API se data load karke ek DataFrame mein merge kiya |
+| 2 | **Data Understanding** | `.head()`, `.info()`, `.describe()`, `.shape` se dataset explore kiya |
+| 3 | **Data Cleaning** | Missing values, duplicates, data types, irrelevant columns handle kiye |
+| 4 | **Univariate Analysis** | Age, Income, Purchased ki individual distribution dekhi |
+| 5 | **Bivariate Analysis** | Gender vs Purchased, Income vs Purchased relationships |
+| 6 | **Multivariate Analysis** | Correlation Heatmap + Pair Plot se feature interactions |
+| 7 | **Automated Profiling** | `ydata-profiling` se HTML report generate kiya |
+| 8 | **Insights & Conclusion** | Final findings aur business takeaways |
+
+## 🛠️ Tech Stack
+Python · Pandas · NumPy · Seaborn · Matplotlib · SQLite3 · Requests · ydata-profiling
 
 
 
