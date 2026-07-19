@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000814,20:001D3D,40:003566,60:00509D,80:3A86FF,100:ADE8F4&text=Data%20Profiler&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistics%20•%20Probability%20•%20Linear%20Algebra&descAlignY=66&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000814,20:001D3D,40:003566,60:00509D,80:3A86FF,100:ADE8F4&text=Data%20Profiler&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
 ## 🎯 Objective
 
