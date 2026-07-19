@@ -311,7 +311,7 @@ Data_Profiler.ipynb
 ## 👩‍💻 Author
 
 **Priya Savaliya**
-📍 Ahmedabad, Gujarat, India
+**📍 Ahmedabad, Gujarat, India **
 
 *"Data-Driven Decisions · Statistical Thinking · Evidence-Based Conclusions"*
 
