@@ -1,25 +1,35 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000814,20:001D3D,40:003566,60:00509D,80:3A86FF,100:ADE8F4&text=Data%20Profiler&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Acquisition%20•%20Cleaning%20•%20EDA%20•%20Automated%20Profiling&descAlignY=66&descSize=18"/>
 
+---
+
 ## 🎯 Objective
 
 Merge customer data from CSV, JSON, SQL, and a live API into a single clean dataset, and identify which features (if any) drive the `Purchased` outcome.
 
+---
 
 ## 🛠️ Tools & Libraries
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YData%20Profiling-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-003566?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-00509D?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-003566?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00509D?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-003566?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-00509D?style=for-the-badge&logo=sqlite&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-003566?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-00509D?style=for-the-badge&logo=jupyter&logoColor=white)
+![YData Profiling](https://img.shields.io/badge/YData_Profiling-003566?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+# 🎬 Project Demo
+
+[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1KYqHdPRi0XlqIMEB1FvhfrKUrVYX7yMC/view?usp=sharing)
+
+📹 Click the badge above to watch the complete project demonstration.
+
+---
 
 ## 🗂️ Project Files
 
@@ -33,7 +43,7 @@ Merge customer data from CSV, JSON, SQL, and a live API into a single clean data
 | 📘 `README.md` | Project documentation (this file) 
 
 
-
+---
 
 ## 🏗️ Project Architecture
 
