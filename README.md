@@ -14,7 +14,6 @@ The project combines multi-source data engineering with practical implementation
 Merge customer data from CSV, JSON, SQL, and a live API into a single clean dataset, and identify which features (if any) drive the `Purchased` outcome.
 
 ---
-
 ## 🛠️ Tools & Libraries
 
 ![Python](https://img.shields.io/badge/Python-003566?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +30,7 @@ Merge customer data from CSV, JSON, SQL, and a live API into a single clean data
 
 ## 🎬 Project Demo
 
-![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white)(https://drive.google.com/file/d/15rVC3j1UWCeM1BUH4yeZeG4bfqLHGLoZ/view?usp=sharing)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/15rVC3j1UWCeM1BUH4yeZeG4bfqLHGLoZ/view?usp=sharing)
 
 📹 Click the badge above to watch the complete project demonstration.
 
