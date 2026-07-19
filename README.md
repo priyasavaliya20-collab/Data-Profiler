@@ -11,7 +11,9 @@ The project combines multi-source data engineering with practical implementation
 
 ## 🎯 Objective
 
-Merge customer data from CSV, JSON, SQL, and a live API into a single clean dataset, and identify which features (if any) drive the `Purchased` outcome.
+
+<img width="1536" height="1024" alt="ChatGPT Image Jul 19, 2026, 08_18_03 PM" src="https://github.com/user-attachments/assets/b287c654-5587-48a2-9bea-e19f64863233" />
+
 
 ---
 ## 🛠️ Tools & Libraries
@@ -311,7 +313,7 @@ Data_Profiler.ipynb
 ## 👩‍💻 Author
 
 **Priya Savaliya**
-**📍 Ahmedabad, Gujarat, India **
+📍 Ahmedabad, Gujarat, India 
 
 *"Data-Driven Decisions · Statistical Thinking · Evidence-Based Conclusions"*
 
