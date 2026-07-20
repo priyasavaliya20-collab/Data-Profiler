@@ -1,0 +1,902 @@
+[
+    {
+        "CustomerID":1,
+        "Name":"Rahul Verma",
+        "Age":33,
+        "Gender":"Male",
+        "City":"Vadodara",
+        "Income":35000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":2,
+        "Name":"Isha Mehta",
+        "Age":20,
+        "Gender":"Male",
+        "City":"Ahmedabad",
+        "Income":29000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":3,
+        "Name":"Deepak Singh",
+        "Age":59,
+        "Gender":"Male",
+        "City":"Indore",
+        "Income":71000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":4,
+        "Name":"Rahul Gupta",
+        "Age":45,
+        "Gender":"Female",
+        "City":"Pune",
+        "Income":53000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":5,
+        "Name":"Sneha Patel",
+        "Age":42,
+        "Gender":"Female",
+        "City":"Surat",
+        "Income":63000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":6,
+        "Name":"Priya Chauhan",
+        "Age":52,
+        "Gender":"Female",
+        "City":"Surat",
+        "Income":66000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":7,
+        "Name":"Varun Joshi",
+        "Age":54,
+        "Gender":"Female",
+        "City":"Vadodara",
+        "Income":108000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":8,
+        "Name":"Pooja Patel",
+        "Age":32,
+        "Gender":"Male",
+        "City":"Surat",
+        "Income":66000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":9,
+        "Name":"Neha Joshi",
+        "Age":40,
+        "Gender":"Female",
+        "City":"Vadodara",
+        "Income":103000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":10,
+        "Name":"Varun Gupta",
+        "Age":52,
+        "Gender":"Male",
+        "City":"Vadodara",
+        "Income":38000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":11,
+        "Name":"Deepak Singh",
+        "Age":38,
+        "Gender":"Female",
+        "City":"Ahmedabad",
+        "Income":47000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":12,
+        "Name":"Manish Verma",
+        "Age":22,
+        "Gender":"Female",
+        "City":"Vadodara",
+        "Income":90000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":13,
+        "Name":"Karan Chauhan",
+        "Age":43,
+        "Gender":"Female",
+        "City":"Jaipur",
+        "Income":36000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":14,
+        "Name":"Deepak Yadav",
+        "Age":34,
+        "Gender":"Male",
+        "City":"Lucknow",
+        "Income":72000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":15,
+        "Name":"Kavya Singh",
+        "Age":26,
+        "Gender":"Female",
+        "City":"Indore",
+        "Income":81000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":16,
+        "Name":"Sneha Gupta",
+        "Age":58,
+        "Gender":"Male",
+        "City":"Rajkot",
+        "Income":119000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":17,
+        "Name":"Manish Mehta",
+        "Age":56,
+        "Gender":"Male",
+        "City":"Jaipur",
+        "Income":85000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":18,
+        "Name":"Sneha Yadav",
+        "Age":35,
+        "Gender":"Male",
+        "City":"Pune",
+        "Income":32000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":19,
+        "Name":"Ritika Sharma",
+        "Age":34,
+        "Gender":"Male",
+        "City":"Indore",
+        "Income":115000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":20,
+        "Name":"Pooja Yadav",
+        "Age":56,
+        "Gender":"Male",
+        "City":"Vadodara",
+        "Income":37000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":21,
+        "Name":"Deepak Yadav",
+        "Age":18,
+        "Gender":"Male",
+        "City":"Lucknow",
+        "Income":59000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":22,
+        "Name":"Kavya Verma",
+        "Age":33,
+        "Gender":"Male",
+        "City":"Ahmedabad",
+        "Income":48000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":23,
+        "Name":"Amit Chauhan",
+        "Age":22,
+        "Gender":"Male",
+        "City":"Indore",
+        "Income":116000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":24,
+        "Name":"Deepak Gupta",
+        "Age":34,
+        "Gender":"Female",
+        "City":"Indore",
+        "Income":95000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":25,
+        "Name":"Deepak Singh",
+        "Age":37,
+        "Gender":"Male",
+        "City":"Delhi",
+        "Income":103000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":26,
+        "Name":"Nisha Chauhan",
+        "Age":25,
+        "Gender":"Female",
+        "City":"Vadodara",
+        "Income":46000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":27,
+        "Name":"Isha Yadav",
+        "Age":32,
+        "Gender":"Male",
+        "City":"Lucknow",
+        "Income":46000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":28,
+        "Name":"Anjali Patel",
+        "Age":20,
+        "Gender":"Male",
+        "City":"Pune",
+        "Income":27000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":29,
+        "Name":"Yash Singh",
+        "Age":52,
+        "Gender":"Female",
+        "City":"Rajkot",
+        "Income":110000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":30,
+        "Name":"Anjali Chauhan",
+        "Age":44,
+        "Gender":"Female",
+        "City":"Vadodara",
+        "Income":30000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":31,
+        "Name":"Kavya Mehta",
+        "Age":44,
+        "Gender":"Female",
+        "City":"Jaipur",
+        "Income":111000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":32,
+        "Name":"Priya Mehta",
+        "Age":39,
+        "Gender":"Male",
+        "City":"Surat",
+        "Income":49000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":33,
+        "Name":"Rohan Mehta",
+        "Age":29,
+        "Gender":"Female",
+        "City":"Mumbai",
+        "Income":77000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":34,
+        "Name":"Ritika Yadav",
+        "Age":24,
+        "Gender":"Male",
+        "City":"Ahmedabad",
+        "Income":101000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":35,
+        "Name":"Amit Singh",
+        "Age":28,
+        "Gender":"Male",
+        "City":"Delhi",
+        "Income":80000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":36,
+        "Name":"Priya Gupta",
+        "Age":42,
+        "Gender":"Female",
+        "City":"Ahmedabad",
+        "Income":67000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":37,
+        "Name":"Pooja Mehta",
+        "Age":53,
+        "Gender":"Female",
+        "City":"Jaipur",
+        "Income":37000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":38,
+        "Name":"Priya Trivedi",
+        "Age":52,
+        "Gender":"Male",
+        "City":"Ahmedabad",
+        "Income":113000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":39,
+        "Name":"Isha Chauhan",
+        "Age":50,
+        "Gender":"Male",
+        "City":"Indore",
+        "Income":38000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":40,
+        "Name":"Neha Patel",
+        "Age":56,
+        "Gender":"Male",
+        "City":"Surat",
+        "Income":104000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":41,
+        "Name":"Sneha Trivedi",
+        "Age":33,
+        "Gender":"Female",
+        "City":"Lucknow",
+        "Income":94000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":42,
+        "Name":"Simran Trivedi",
+        "Age":54,
+        "Gender":"Male",
+        "City":"Indore",
+        "Income":58000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":43,
+        "Name":"Arjun Singh",
+        "Age":34,
+        "Gender":"Male",
+        "City":"Delhi",
+        "Income":34000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":44,
+        "Name":"Ritika Joshi",
+        "Age":22,
+        "Gender":"Female",
+        "City":"Ahmedabad",
+        "Income":76000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":45,
+        "Name":"Amit Yadav",
+        "Age":31,
+        "Gender":"Male",
+        "City":"Indore",
+        "Income":51000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":46,
+        "Name":"Amit Singh",
+        "Age":41,
+        "Gender":"Female",
+        "City":"Mumbai",
+        "Income":38000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":47,
+        "Name":"Varun Yadav",
+        "Age":18,
+        "Gender":"Female",
+        "City":"Indore",
+        "Income":56000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":48,
+        "Name":"Rohan Verma",
+        "Age":25,
+        "Gender":"Male",
+        "City":"Surat",
+        "Income":113000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":49,
+        "Name":"Pooja Trivedi",
+        "Age":31,
+        "Gender":"Female",
+        "City":"Pune",
+        "Income":44000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":50,
+        "Name":"Nisha Chauhan",
+        "Age":34,
+        "Gender":"Female",
+        "City":"Ahmedabad",
+        "Income":29000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":51,
+        "Name":"Priya Sharma",
+        "Age":39,
+        "Gender":"Female",
+        "City":"Rajkot",
+        "Income":99000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":52,
+        "Name":"Ritika Yadav",
+        "Age":45,
+        "Gender":"Male",
+        "City":"Indore",
+        "Income":19000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":53,
+        "Name":"Deepak Sharma",
+        "Age":41,
+        "Gender":"Male",
+        "City":"Lucknow",
+        "Income":88000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":54,
+        "Name":"Priya Verma",
+        "Age":41,
+        "Gender":"Male",
+        "City":"Ahmedabad",
+        "Income":63000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":55,
+        "Name":"Sneha Joshi",
+        "Age":53,
+        "Gender":"Male",
+        "City":"Delhi",
+        "Income":97000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":56,
+        "Name":"Neha Gupta",
+        "Age":44,
+        "Gender":"Male",
+        "City":"Ahmedabad",
+        "Income":40000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":57,
+        "Name":"Simran Singh",
+        "Age":35,
+        "Gender":"Female",
+        "City":"Rajkot",
+        "Income":118000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":58,
+        "Name":"Priya Chauhan",
+        "Age":32,
+        "Gender":"Female",
+        "City":"Vadodara",
+        "Income":76000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":59,
+        "Name":"Anjali Sharma",
+        "Age":60,
+        "Gender":"Male",
+        "City":"Vadodara",
+        "Income":69000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":60,
+        "Name":"Vikram Joshi",
+        "Age":59,
+        "Gender":"Male",
+        "City":"Indore",
+        "Income":69000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":61,
+        "Name":"Rahul Patel",
+        "Age":34,
+        "Gender":"Female",
+        "City":"Rajkot",
+        "Income":92000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":62,
+        "Name":"Priya Patel",
+        "Age":56,
+        "Gender":"Female",
+        "City":"Delhi",
+        "Income":62000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":63,
+        "Name":"Simran Trivedi",
+        "Age":50,
+        "Gender":"Female",
+        "City":"Surat",
+        "Income":67000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":64,
+        "Name":"Vikram Sharma",
+        "Age":45,
+        "Gender":"Male",
+        "City":"Ahmedabad",
+        "Income":84000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":65,
+        "Name":"Kavya Mehta",
+        "Age":22,
+        "Gender":"Male",
+        "City":"Pune",
+        "Income":97000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":66,
+        "Name":"Pooja Yadav",
+        "Age":37,
+        "Gender":"Male",
+        "City":"Delhi",
+        "Income":59000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":67,
+        "Name":"Deepak Gupta",
+        "Age":30,
+        "Gender":"Female",
+        "City":"Delhi",
+        "Income":103000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":68,
+        "Name":"Varun Trivedi",
+        "Age":37,
+        "Gender":"Male",
+        "City":"Delhi",
+        "Income":88000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":69,
+        "Name":"Pooja Singh",
+        "Age":45,
+        "Gender":"Female",
+        "City":"Lucknow",
+        "Income":95000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":70,
+        "Name":"Ritika Chauhan",
+        "Age":31,
+        "Gender":"Female",
+        "City":"Indore",
+        "Income":78000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":71,
+        "Name":"Amit Verma",
+        "Age":50,
+        "Gender":"Male",
+        "City":"Lucknow",
+        "Income":60000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":72,
+        "Name":"Pooja Singh",
+        "Age":30,
+        "Gender":"Male",
+        "City":"Rajkot",
+        "Income":21000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":73,
+        "Name":"Varun Patel",
+        "Age":47,
+        "Gender":"Female",
+        "City":"Delhi",
+        "Income":98000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":74,
+        "Name":"Yash Mehta",
+        "Age":33,
+        "Gender":"Female",
+        "City":"Rajkot",
+        "Income":101000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":75,
+        "Name":"Simran Singh",
+        "Age":29,
+        "Gender":"Male",
+        "City":"Indore",
+        "Income":77000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":76,
+        "Name":"Sneha Chauhan",
+        "Age":26,
+        "Gender":"Male",
+        "City":"Jaipur",
+        "Income":103000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":77,
+        "Name":"Ritika Trivedi",
+        "Age":50,
+        "Gender":"Female",
+        "City":"Delhi",
+        "Income":88000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":78,
+        "Name":"Yash Chauhan",
+        "Age":34,
+        "Gender":"Male",
+        "City":"Vadodara",
+        "Income":99000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":79,
+        "Name":"Anjali Verma",
+        "Age":46,
+        "Gender":"Female",
+        "City":"Surat",
+        "Income":109000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":80,
+        "Name":"Arjun Joshi",
+        "Age":52,
+        "Gender":"Female",
+        "City":"Surat",
+        "Income":35000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":81,
+        "Name":"Rohan Singh",
+        "Age":22,
+        "Gender":"Female",
+        "City":"Delhi",
+        "Income":70000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":82,
+        "Name":"Simran Sharma",
+        "Age":31,
+        "Gender":"Female",
+        "City":"Delhi",
+        "Income":67000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":83,
+        "Name":"Isha Mehta",
+        "Age":48,
+        "Gender":"Male",
+        "City":"Ahmedabad",
+        "Income":63000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":84,
+        "Name":"Simran Yadav",
+        "Age":52,
+        "Gender":"Female",
+        "City":"Lucknow",
+        "Income":46000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":85,
+        "Name":"Simran Chauhan",
+        "Age":19,
+        "Gender":"Female",
+        "City":"Delhi",
+        "Income":61000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":86,
+        "Name":"Neha Chauhan",
+        "Age":26,
+        "Gender":"Female",
+        "City":"Lucknow",
+        "Income":86000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":87,
+        "Name":"Isha Trivedi",
+        "Age":60,
+        "Gender":"Female",
+        "City":"Ahmedabad",
+        "Income":28000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":88,
+        "Name":"Ritika Gupta",
+        "Age":21,
+        "Gender":"Male",
+        "City":"Mumbai",
+        "Income":66000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":89,
+        "Name":"Arjun Joshi",
+        "Age":42,
+        "Gender":"Female",
+        "City":"Mumbai",
+        "Income":114000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":90,
+        "Name":"Vikram Patel",
+        "Age":48,
+        "Gender":"Female",
+        "City":"Ahmedabad",
+        "Income":113000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":91,
+        "Name":"Anjali Patel",
+        "Age":59,
+        "Gender":"Female",
+        "City":"Ahmedabad",
+        "Income":114000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":92,
+        "Name":"Karan Sharma",
+        "Age":57,
+        "Gender":"Male",
+        "City":"Rajkot",
+        "Income":48000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":93,
+        "Name":"Isha Singh",
+        "Age":47,
+        "Gender":"Male",
+        "City":"Mumbai",
+        "Income":116000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":94,
+        "Name":"Neha Verma",
+        "Age":24,
+        "Gender":"Male",
+        "City":"Lucknow",
+        "Income":21000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":95,
+        "Name":"Manish Singh",
+        "Age":22,
+        "Gender":"Female",
+        "City":"Lucknow",
+        "Income":106000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":96,
+        "Name":"Sneha Verma",
+        "Age":56,
+        "Gender":"Male",
+        "City":"Surat",
+        "Income":119000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":97,
+        "Name":"Kavya Yadav",
+        "Age":45,
+        "Gender":"Male",
+        "City":"Pune",
+        "Income":26000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":98,
+        "Name":"Rahul Mehta",
+        "Age":49,
+        "Gender":"Female",
+        "City":"Surat",
+        "Income":73000,
+        "Purchased":"No"
+    },
+    {
+        "CustomerID":99,
+        "Name":"Rohan Mehta",
+        "Age":29,
+        "Gender":"Female",
+        "City":"Indore",
+        "Income":101000,
+        "Purchased":"Yes"
+    },
+    {
+        "CustomerID":100,
+        "Name":"Ritika Mehta",
+        "Age":55,
+        "Gender":"Female",
+        "City":"Mumbai",
+        "Income":59000,
+        "Purchased":"No"
+    }
+]
